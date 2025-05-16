@@ -16,10 +16,3 @@ Designed to help track click IDs and attribution parameters across Google Ads, F
 
 Usage Example:
 If you want to capture the gclid or fbclid from the URL and store it in a cookie to send it later with a conversion event or a GTM tag, this Variable Template makes it easy to do so.
-
-Why Use This Template?
-Enhanced Attribution: Accurately identify the traffic source of users across platforms.
-
-DataLayer Enrichment: Push cookie or URL parameter values into the Data Layer.
-
-Accurate Conversion Tracking: Include source, medium, and click IDs in your conversion events for better ad performance analysis.
