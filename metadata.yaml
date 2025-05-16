@@ -1,4 +1,22 @@
 homepage: "https://github.com/RHR07"
+
 versions:
   - sha: 867a1ba8144bbb80d1254ece933ec40ff7c5e778
     changeNotes: Initial release.
+
+author:
+  name: "RHR07"
+  email: "rohithasan811@gmail.com"
+  url: "https://github.com/RHR07"
+
+license: "MIT"
+
+description: >
+  Fetches values from 1st-party cookies or URL parameters for cross-platform ad attribution.
+
+categories:
+  - Utilities
+  - Attribution
+
+containerContexts:
+  - WEB
